@@ -1,2 +1,2 @@
 # bitsabout
-A staff engineer's perspective about
+A staff engineer's perspective
