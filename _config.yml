@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
-title: bits about
+title: Bits About
 description: A staff engineer's perspective
+permalink: /blog/:year/:month/:day/:title
