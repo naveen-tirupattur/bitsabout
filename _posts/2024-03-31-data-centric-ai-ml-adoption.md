@@ -3,7 +3,6 @@ layout: post
 title: "Data centric approach to AI/ML"
 date: 2024-03-31
 ---
-# Data centric approach to AI/ML
 As companies race to adopt AI/ML into their workflows and products, the need for a cohesive data strategy has never been
 more important. This wave of AI/ML adoption is being driven by the huge improvements in the capabilities of models via 
 novel architectures and cloud computing that has democratized the ability to train/deploy/host these models at scale. 
