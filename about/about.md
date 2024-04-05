@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
 
-# About Me
 
 Hey there! Welcome to my blog. My name is [Your Name], and I'm passionate about [Your Passion or Interest]. Here, I share my thoughts, experiences, and insights on [Your Blog Theme or Topic].
 
